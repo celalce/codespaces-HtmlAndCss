@@ -2,3 +2,4 @@ Merhaba yeni bir deneme
 repo dan cevap 
 localden soru
 repodan yazıldı 2
+localden yazıldı 2
